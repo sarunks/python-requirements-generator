@@ -4,9 +4,9 @@ python-requirements-generator
 Scans all files recursively in a directory and prints all imports that are needed, that are not installed
 
 Download the file<br />
-Run python python_requirements_generator.py <FULL FOLDER PATH><br />
+RUN python python_requirements_generator.py \<FULL FOLDER PATH\><br />
 Note: Absolute path wont work<br />
-Example python python_requirements_generator.py /home/johndoe/myapplicationcode<br />
+EXAMPLE: python python_requirements_generator.py /home/johndoe/myapplicationcode<br />
 Works with python 2.6,2.7,3.0
 
 Sample Output
