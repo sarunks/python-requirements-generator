@@ -1,7 +1,7 @@
 python-requirements-generator
 =============================
 
-Scans all files recursively in a directory and prints all imports that are needed, that are not installed
+Scans all Python files recursively in a directory and prints all imports that are needed, that are not installed
 
 Download the file<br />
 RUN: python python_requirements_generator.py \<FULL FOLDER PATH\><br />
